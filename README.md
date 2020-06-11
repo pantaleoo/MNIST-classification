@@ -1,5 +1,7 @@
 # MNIST-classification
 
+ ***upload by hou, 2020.6.11, njust***
+
 + project github link<br>
       [github](https://github.com/pantaleoo/MNIST-classification)
 
